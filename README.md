@@ -67,7 +67,7 @@ Code4rena Profile: https://code4rena.com/@0xnev
 This is a culmination of other reports separate from H/M findings, feel free to give it a read!
 
 ### Code4rena Analysis Reports
-Analysis reports are a in-depth analysis of codebases as a whole. You can checkout more details [here.](https://code4rena.notion.site/Analyses-Guidelines-and-FAQ-2808a71e08e44c81a985527194f5f118#78bf85ff58944e0ab714a5e42fe1237a)
+Analysis reports are in-depth analysis of codebases as a whole. You can checkout more details [here.](https://code4rena.notion.site/Analyses-Guidelines-and-FAQ-2808a71e08e44c81a985527194f5f118#78bf85ff58944e0ab714a5e42fe1237a)
 
 | Contest | Analysis Report | Grade|
 |:--:|:--:|:--:|
