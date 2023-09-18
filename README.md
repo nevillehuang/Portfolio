@@ -36,7 +36,7 @@ C4 Profile: https://code4rena.com/@0xnev
 
 ### Audit Competitions
 | Contest | High risk | Medium risk | Security report | 
-|:--:|:--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|:--:|
 | [CodeHawks Escrow](https://github.com/Cyfrin/2023-07-escrow) | - | 1 | [Source]() | 
 | [Sparkn](https://github.com/Cyfrin/2023-08-sparkn) | - | 1 | [Source]() | 
 
