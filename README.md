@@ -19,7 +19,7 @@ C4 Profile: https://code4rena.com/@0xnev
 
 ### Audit Competitions
 | Contest | High risk | Medium risk | Security report | 
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|:--:|
 | [Tangible Caviar](https://code4rena.com/contests/2023-08-tangible-caviar#top) | 4 High | 1 Medium | [Source]() | 
 | [Arcade.xyz](https://code4rena.com/contests/2023-07-arcadexyz#top) | - | 1 Medium | [Source]() | 
 | [Lybra Finance](https://code4rena.com/contests/2023-06-lybra-finance#top) | 1 High | 1 Medium | [Source]() | 
