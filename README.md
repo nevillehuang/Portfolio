@@ -3,7 +3,7 @@
 Hey there friends, Nevi here, an independent blockchain security researcher currently active in audit contests on platforms such as Code4rena, Sherlock and Codehawks. Here, you can see some of my past findings and contest results.
 
 ### Contact Information
-Feel free to reach out for a private audit/security review or for collaborations via:
+I am always looking for new opportunities be it a job opening, private audit/security review or simply for collaborations. Feel free to reach out via:
 
 Twitter: [@0xnevi](https://twitter.com/0xnevi)
 
