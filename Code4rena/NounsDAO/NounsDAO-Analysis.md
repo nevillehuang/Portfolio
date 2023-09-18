@@ -2,8 +2,11 @@
 
 ## Table of Content
 [1. Summary of Codebase](#1-summary-of-codebase)
+
 [2. Architecture Improvements](#2-architecture-improvements)
+
 [3. Centralization Risks](#3-centralization-risks)
+
 [4. Time Spent](#4-time-spent)
 
 ## 1. Summary of Codebase 

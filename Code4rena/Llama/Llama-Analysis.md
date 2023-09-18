@@ -1,8 +1,11 @@
 # [Llama Analysis](https://code4rena.com/reports/2023-06-llama#audit-analysis)
 
 [1. Analysis of Codebase](#1-analysis-of-codebase)
+
 [2. Architecture Improvements](#2-architecture-improvements)
+
 [3. Centralization Risks](#3-centralization-risks)
+
 [4. Time Spent](#4-time-spent)
 
 ## 1. Analysis of Codebase 

@@ -2,7 +2,7 @@
 
 ## Findings by 0xnevi
 | Severity | Title | 
-|:--:|:---|:--:|
+|:--:|:---|
 | [M-01](#m-01-protocol-and-makers-receives-10x-less-fees-due-to-math-error)| Protocol and makers receives 10x less fees due to math error | 
 | [M-02](#m-02-rubiconmarketbuy-function-wrongly-accounts-for-fees-when-determining-amount)| `RubiconMarket.buy()` function wrongly accounts for fees when determining amount| 
 | [M-03](#m-03-use-safetransfersafetransferfrom-consistently-instead-of-transfertransferfrom)| Use safeTransfer/safeTransferFrom consistently instead of transfer/transferFrom| 

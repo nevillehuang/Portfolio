@@ -37,8 +37,8 @@ C4 Profile: https://code4rena.com/@0xnev
 ### Audit Competitions
 | Contest | High risk | Medium risk | Security report | 
 |:--:|:--:|:--:|:--:|
-| [CodeHawks Escrow](https://github.com/Cyfrin/2023-07-escrow) | - | 1 | [Source]() | 
-| [Sparkn](https://github.com/Cyfrin/2023-08-sparkn) | - | 1 | [Source]() | 
+| [CodeHawks Escrow](https://github.com/Cyfrin/2023-07-escrow) | - | 1 | [Source](https://github.com/nevillehuang/Portfolio/blob/main/CodeHawks/CodeHawks%20Escrow/Escrow-Report.md) | 
+| [Sparkn](https://github.com/Cyfrin/2023-08-sparkn) | - | 1 | [Source](https://github.com/nevillehuang/Portfolio/blob/main/CodeHawks/Sparkn/Sparkn-Report.md) | 
 
 # Sherlock  <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.dc2b3290.svg" width=22 height=22>
 
@@ -69,10 +69,10 @@ Analysis reports are a in-depth analysis of codebases as a whole. You can checko
 
 | Contest | Analysis Report | Grade|
 |:--:|:--:|:--:|
-| [Arbitrum Security Council Election System](https://code4rena.com/contests/2023-08-tangible-caviar#top) | [Source]() | Grade-B |
-| [Tangible Caviar](https://code4rena.com/contests/2023-08-tangible-caviar#top) | [Source]() | Grade-A |
-| [Arcade.xyz](https://code4rena.com/contests/2023-07-arcadexyz#top) | [Source]() | Grade-A |
-| [Nouns DAO](https://code4rena.com/contests/2023-07-nouns-dao#top) | [Source]() | Grade-A, Selected |
+| [Arbitrum Security Council Election System](https://code4rena.com/contests/2023-08-tangible-caviar#top) | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Arbitrum%20SCES/Arbitrum-SCES-Analysis.md) | Grade-B |
+| [Tangible Caviar](https://code4rena.com/contests/2023-08-tangible-caviar#top) | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Tangible/Tangible-Analysis.md) | Grade-A |
+| [Arcade.xyz](https://code4rena.com/contests/2023-07-arcadexyz#top) | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Arcade/Arcade-Analysis.md) | Grade-A |
+| [Nouns DAO](https://code4rena.com/contests/2023-07-nouns-dao#top) | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/NounsDAO/NounsDAO-Analysis.md) | Grade-A, Selected |
 | [Llama](https://code4rena.com/contests/2023-06-llama#top) | [Source]() | Grade-A, Selected |
 
 ### Code4rena QA Reports
