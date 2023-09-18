@@ -73,27 +73,27 @@ Analysis reports are a in-depth analysis of codebases as a whole. You can checko
 | [Tangible Caviar](https://code4rena.com/contests/2023-08-tangible-caviar#top) | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Tangible/Tangible-Analysis.md) | Grade-A |
 | [Arcade.xyz](https://code4rena.com/contests/2023-07-arcadexyz#top) | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Arcade/Arcade-Analysis.md) | Grade-A |
 | [Nouns DAO](https://code4rena.com/contests/2023-07-nouns-dao#top) | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/NounsDAO/NounsDAO-Analysis.md) | Grade-A, Selected |
-| [Llama](https://code4rena.com/contests/2023-06-llama#top) | [Source]() | Grade-A, Selected |
+| [Llama](https://code4rena.com/contests/2023-06-llama#top) | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Llama/Llama-Analysis.md) | Grade-A, Selected |
 
 ### Code4rena QA Reports
 Quality Assurance (QA) reports are reports comprising of Low/Non-critical/Informational findings that can have some impact on a protocol but does not result in a direct loss of funds or broken protocol functionality.
 
 | Contest | QA Report | Grade|
 |:--:|:--:|:--:|
-| [Arcade.xyz](https://code4rena.com/contests/2023-07-arcadexyz#top) | [Source]() | Grade-B |
-| [Lybra Finance](https://code4rena.com/contests/2023-06-lybra-finance#top) | [Source]() | Grade-A, Selected |
-| [Chainlink Cross-Chain Services](https://code4rena.com/contests/2023-05-chainlink-cross-chain-services-ccip-and-arm-network#top) | [Source]() | Grade-B |
-| [JuiceBox BuyBack Delegate](https://code4rena.com/contests/2023-05-juicebox-buyback-delegate) | [Source]() | Grade-B |
-| [Venus Protocol Isolated Pools](https://code4rena.com/contests/2023-05-venus-protocol-isolated-pools) | [Source]() | Grade-B |
-| [Ajna Protocol](https://code4rena.com/contests/2023-05-ajna-protocol) | [Source]() | Grade-A |
-| [EigenLayer](https://code4rena.com/contests/2023-04-eigenlayer-contest) | [Source]() | Grade-B |
-| [Frankencoin](https://code4rena.com/contests/2023-04-frankencoin) | [Source]() | Grade-B |
-| [Rubicon v2](https://code4rena.com/contests/2023-04-rubicon-v2) | [Source]() | Grade-A |
-| [Asymmetry](https://code4rena.com/contests/2023-03-asymmetry-contest) | [Source]() | Grade-A |
-| [Canto Identity Subprotocols](https://code4rena.com/contests/2023-03-canto-identity-subprotocols-contest) | [Source]() | Grade-A |
-| [Wenwin](https://code4rena.com/contests/2023-03-wenwin-contest) | [Source]() | Grade-B |
-| [Aragon Protocol](https://code4rena.com/contests/2023-03-aragon-protocol-contest) | [Source]() | Grade-B |
-| [Ethos Reserve](https://code4rena.com/contests/2023-02-ethos-reserve-contest) | [Source]() | Grade-B |
+| [Arcade.xyz](https://code4rena.com/contests/2023-07-arcadexyz#top) | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Arcade/Arcade-QA.md) | Grade-B |
+| [Lybra Finance](https://code4rena.com/contests/2023-06-lybra-finance#top) | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Lybra%20Finance/Lybra-QA.md) | Grade-A, Selected |
+| [Chainlink Cross-Chain Services](https://code4rena.com/contests/2023-05-chainlink-cross-chain-services-ccip-and-arm-network#top) | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Chainlink%20CCIP/Chainlink-CCIP-QA.md) | Grade-B |
+| [JuiceBox BuyBack Delegate](https://code4rena.com/contests/2023-05-juicebox-buyback-delegate) | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/JuiceBox/JuiceBox-QA.md) | Grade-B |
+| [Venus Protocol Isolated Pools](https://code4rena.com/contests/2023-05-venus-protocol-isolated-pools) | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Venus%20Isolated%20Pools/Venus-IP-QA.md) | Grade-B |
+| [Ajna Protocol](https://code4rena.com/contests/2023-05-ajna-protocol) | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Ajna/Ajna-QA.md) | Grade-A |
+| [EigenLayer](https://code4rena.com/contests/2023-04-eigenlayer-contest) | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/EigenLayer/EigenLayer-QA.md) | Grade-B |
+| [Frankencoin](https://code4rena.com/contests/2023-04-frankencoin) | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Frankencoin/Frankencoin-QA.md) | Grade-B |
+| [Rubicon v2](https://code4rena.com/contests/2023-04-rubicon-v2) | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/RubiconV2/RubiconV2-QA.md) | Grade-A |
+| [Asymmetry](https://code4rena.com/contests/2023-03-asymmetry-contest) | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Asymmetry%20Finance/Asymmetry-QA.md) | Grade-A |
+| [Canto Identity Subprotocols](https://code4rena.com/contests/2023-03-canto-identity-subprotocols-contest) | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Canto%20Identity%20Subprotocols/Canto-ISP-QA.md) | Grade-A |
+| [Wenwin](https://code4rena.com/contests/2023-03-wenwin-contest) | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Wenwin/Wenwin-QA.md) | Grade-B |
+| [Aragon Protocol](https://code4rena.com/contests/2023-03-aragon-protocol-contest) | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Aragon/Aragon-QA.md) | Grade-B |
+| [Ethos Reserve](https://code4rena.com/contests/2023-02-ethos-reserve-contest) | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Ethos%20Reserve/EthosReserve-QA.md) | Grade-B |
 
 
 

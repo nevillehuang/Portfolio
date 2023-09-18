@@ -12,7 +12,7 @@
 
 ## [Non-Critical](#non-critical) 
 | Count | Title | 
-|:--:|:-------|:--:|
+|:--:|:-------|
 | [NC-01](#nc-01-rigidredemption-disallow-rigid-redemption-of-0-value) | `rigidRedemption()`: Disallow rigid redemption of 0 value| 
 | [NC-02](#nc-02-add-reentrancy-guard-to-lybras-version-of-synthethix-contract) | Add reentrancy guard to Lybra's version of synthethix contract | 
 | [NC-03](#nc-03-lybrastethvaultexcessincomedistribution-use-_savereport-directly) | `LybraStETHVault.excessIncomeDistribution()`: Use `_saveReport()` directly |
