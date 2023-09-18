@@ -4,7 +4,7 @@
 | Severity | Title | 
 |:--:|:---|
 | [H-01](#h-01-wrong-votes-quantity-comparison-for-action-approval-and-disapprovals-in-llamarelativequorum-strategy)| Wrong votes quantity comparison for action approval and disapprovals in `LlamaRelativeQuorum` strategy | 
-| [M-01](#m-01-owner-can-be-uncessarily-dosed-from-setting-roles-for-policy-holders) | `LybraGovernance.votingPeriod()/votingDelay()`: Wrong voting period and voting delay implemented | 
+| [M-01](#m-01-owner-can-be-uncessarily-dosed-from-setting-roles-for-policy-holders) | Owner can be uncessarily DoSed from setting roles for policy holders| 
 
 ## [H-01] Wrong votes quantity comparison for action approval and disapprovals in `LlamaRelativeQuorum` strategy
 
