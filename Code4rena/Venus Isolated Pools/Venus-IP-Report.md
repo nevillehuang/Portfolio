@@ -2,7 +2,7 @@
 
 ## Findings by 0xnevi
 | Severity | Title | 
-|:--:|:---|:--:|
+|:--:|:---|
 | [M-01](#m-01-riskfundswappoolsasset-does-not-allow-user-to-supply-deadline-which-may-cause-swap-revert)| `RiskFund.swapPoolsAsset` does not allow user to supply deadline, which may cause swap revert| 
 | [M-02](#m-02-shortfall_startauction-assumes-underlying-assets-always-has-18-decimals) | `Shortfall._startAuction()` assumes underlying assets always has 18 decimals | 
 

@@ -2,7 +2,7 @@
 
 ## Findings by 0xnevi
 | Severity | Title | 
-|:--:|:---|:--:|
+|:--:|:---|
 | [H-01](#h-01-division-before-multiplication-incurs-unnecessary-precision-loss)| Division before multiplication incurs unnecessary precision loss|
 
 ## [H-01] Division before multiplication incurs unnecessary precision loss

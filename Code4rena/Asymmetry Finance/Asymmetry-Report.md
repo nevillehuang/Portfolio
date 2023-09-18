@@ -2,7 +2,7 @@
 
 ## Findings by 0xnevi
 | Severity | Title | 
-|:--:|:---|:--:|
+|:--:|:---|
 | [M-01](#m-01-precision-loss-that-can-lead-to-potential-loss-of-funds-through-front-running-and-sandwich-attacks)| Precision Loss that can lead to potential loss of funds through front running and sandwich attacks|
 | [M-02](#m-02-missing-deadline-checks-allow-pending-transactions-to-be-maliciously-executed)| Missing deadline checks allow pending transactions to be maliciously executed|
 

@@ -2,7 +2,7 @@
 
 ## Findings by 0xnevi
 | Severity | Title | 
-|:--:|:---|:--:|
+|:--:|:---|
 | [M-01](#m-01-positionmanagermoveliquidity-could-revert-due-to-underflow)| `RiskFund.swapPoolsAsset()` does not allow user to supply deadline, which may cause swap revert| 
 
 ## [M-01] `PositionManager.moveLiquidity` could revert due to underflow
