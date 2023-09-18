@@ -6,8 +6,10 @@ Hey there friends, Nevi here, an independent blockchain security researcher curr
 Feel free to reach out for a private audit/security review or for collaborations via:
 
 Twitter: [@0xnevi](https://twitter.com/0xnevi)
+
 Discord: 0xnevi
-C4 Profile: https://code4rena.com/@0xnev
+
+Code4rena Profile: https://code4rena.com/@0xnev
 
 # Summary
 
