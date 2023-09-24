@@ -22,6 +22,8 @@ Code4rena Profile: https://code4rena.com/@0xnev
 ### Audit Competitions
 | Contest | High risk | Medium risk | Security report | 
 |:--:|:--:|:--:|:--:|
+| [Dopex](https://code4rena.com/contests/2023-08-dopex#top) | - | - | TBC |
+| [Tapioca DAO](https://code4rena.com/contests/2023-07-tapioca-dao#top) | - | - | TBC |
 | [Tangible Caviar](https://code4rena.com/contests/2023-08-tangible-caviar#top) | 4 High | 1 Medium | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Tangible/Tangible-Report.md) | 
 | [Arcade.xyz](https://code4rena.com/contests/2023-07-arcadexyz#top) | - | 1 Medium | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Arcade/Arcade-Report.md) | 
 | [Lybra Finance](https://code4rena.com/contests/2023-06-lybra-finance#top) | 1 High | 1 Medium | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Lybra%20Finance/Lybra-Report.md) | 
