@@ -42,6 +42,11 @@ Code4rena Profile: https://code4rena.com/@0xnev
 | [CodeHawks Escrow](https://github.com/Cyfrin/2023-07-escrow) | - | 1 | [Source](https://github.com/nevillehuang/Portfolio/blob/main/CodeHawks/CodeHawks%20Escrow/Escrow-Report.md) | 
 | [Sparkn](https://github.com/Cyfrin/2023-08-sparkn) | - | 1 | [Source](https://github.com/nevillehuang/Portfolio/blob/main/CodeHawks/Sparkn/Sparkn-Report.md) | 
 
+### Judging
+| Contest | Role |
+|:--:|:--:|
+|[DittoETH](https://www.codehawks.com/contests/clm871gl00001mp081mzjdlwc)| [Lead Judge](https://x.com/CodeHawks/status/1704190173607579817?s=20) |
+
 # Sherlock  <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.dc2b3290.svg" width=22 height=22>
 
 ### Judging Competitions
