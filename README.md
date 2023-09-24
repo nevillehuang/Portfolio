@@ -62,7 +62,7 @@ Code4rena Profile: https://code4rena.com/@0xnev
 | [Dinari](https://audits.sherlock.xyz/contests/98)| 5/61 | $48.33 USDC | 
 | [GFX Labs](https://audits.sherlock.xyz/contests/97)| 3/43 | $86.55 USDC | 
 | [Beam](https://audits.sherlock.xyz/contests/102)| 10/29 | $27.42 USDC | 
-| [Beam](https://audits.sherlock.xyz/contests/108)| Lead Judge | $892.88 USDC | 
+| [Symmetrical Update](https://audits.sherlock.xyz/contests/108)| Lead Judge | $892.88 USDC | 
 
 # Other Reports
 This is a culmination of other reports separate from H/M findings, feel free to give it a read!
