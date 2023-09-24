@@ -43,9 +43,9 @@ Code4rena Profile: https://code4rena.com/@0xnev
 | [Sparkn](https://github.com/Cyfrin/2023-08-sparkn) | - | 1 | [Source](https://github.com/nevillehuang/Portfolio/blob/main/CodeHawks/Sparkn/Sparkn-Report.md) | 
 
 ### Judging
-| Contest | Role |
+| Contest | Role | Details |
 |:--:|:--:|
-|[DittoETH](https://www.codehawks.com/contests/clm871gl00001mp081mzjdlwc)| [Lead Judge](https://x.com/CodeHawks/status/1704190173607579817?s=20) |
+|[DittoETH](https://www.codehawks.com/contests/clm871gl00001mp081mzjdlwc)| [Lead Judge](https://x.com/CodeHawks/status/1704190173607579817?s=20) | First community lead judge for [CodeHawks](https://www.codehawks.com/) |
 
 # Sherlock  <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.dc2b3290.svg" width=22 height=22>
 
