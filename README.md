@@ -80,8 +80,8 @@ Analysis reports are in-depth analysis of codebases as a whole. You can checkout
 
 | Contest | Analysis Report | Grade|
 |:--:|:--:|:--:|
-| [Centrifuge](https://code4rena.com/contests/2023-09-centrifuge#top) | TBC |
-| [Dopex](https://code4rena.com/contests/2023-08-dopex#top) | TBC |
+| [Centrifuge](https://code4rena.com/contests/2023-09-centrifuge#top) | TBC | TBC |
+| [Dopex](https://code4rena.com/contests/2023-08-dopex#top) | TBC | TBC |
 | [Arbitrum Security Council Election System](https://code4rena.com/contests/2023-08-tangible-caviar#top) | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Arbitrum%20SCES/Arbitrum-SCES-Analysis.md) | Grade-B |
 | [Tangible Caviar](https://code4rena.com/contests/2023-08-tangible-caviar#top) | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Tangible/Tangible-Analysis.md) | Grade-A |
 | [Arcade.xyz](https://code4rena.com/contests/2023-07-arcadexyz#top) | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Arcade/Arcade-Analysis.md) | Grade-A |
