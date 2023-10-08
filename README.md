@@ -23,7 +23,7 @@ Code4rena Profile: https://code4rena.com/@0xnev
 | Contest | High risk | Medium risk | Security report | 
 |:--:|:--:|:--:|:--:|
 | [Maia Ulysses Omnichain](https://code4rena.com/contests/2023-09-maia-dao-ulysses#top) | - | - | TBC |
-| [Centrifuge](https://code4rena.com/contests/2023-09-centrifuge#top) | - | - | TBC |
+| [Centrifuge](https://code4rena.com/contests/2023-09-centrifuge#top) | - | 1 Medium | TBC |
 | [Dopex](https://code4rena.com/contests/2023-08-dopex#top) | - | - | TBC |
 | [Tapioca DAO](https://code4rena.com/contests/2023-07-tapioca-dao#top) | - | - | TBC |
 | [Tangible Caviar](https://code4rena.com/contests/2023-08-tangible-caviar#top) | 4 High | 1 Medium | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Tangible/Tangible-Report.md) | 
