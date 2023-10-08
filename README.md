@@ -83,7 +83,7 @@ Analysis reports are in-depth analysis of codebases as a whole. You can checkout
 | Contest | Analysis Report | Grade|
 |:--:|:--:|:--:|
 | [Maia Ulysses Omnichain](https://code4rena.com/contests/2023-09-maia-dao-ulysses#top) | TBC | TBC |
-| [Centrifuge](https://code4rena.com/contests/2023-09-centrifuge#top) | TBC | Grade A |
+| [Centrifuge](https://code4rena.com/contests/2023-09-centrifuge#top) | TBC | Grade-A |
 | [Dopex](https://code4rena.com/contests/2023-08-dopex#top) | TBC | TBC |
 | [Arbitrum Security Council Election System](https://code4rena.com/contests/2023-08-tangible-caviar#top) | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Arbitrum%20SCES/Arbitrum-SCES-Analysis.md) | Grade-B |
 | [Tangible Caviar](https://code4rena.com/contests/2023-08-tangible-caviar#top) | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Tangible/Tangible-Analysis.md) | Grade-A |
