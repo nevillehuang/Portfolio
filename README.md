@@ -22,6 +22,7 @@ Code4rena Profile: https://code4rena.com/@0xnev
 ### Audit Competitions
 | Contest | High risk | Medium risk | Security report | 
 |:--:|:--:|:--:|:--:|
+| [Maia Ulysses Omnichain](https://code4rena.com/contests/2023-09-maia-dao-ulysses#top) | - | - | TBC |
 | [Centrifuge](https://code4rena.com/contests/2023-09-centrifuge#top) | - | - | TBC |
 | [Dopex](https://code4rena.com/contests/2023-08-dopex#top) | - | - | TBC |
 | [Tapioca DAO](https://code4rena.com/contests/2023-07-tapioca-dao#top) | - | - | TBC |
@@ -71,6 +72,7 @@ Code4rena Profile: https://code4rena.com/@0xnev
 | [GFX Labs](https://audits.sherlock.xyz/contests/97)| 3/43 | $86.55 USDC | 
 | [Beam](https://audits.sherlock.xyz/contests/102)| 10/29 | $27.42 USDC | 
 | [Symmetrical Update](https://audits.sherlock.xyz/contests/108)| Lead Judge | $892.88 USDC | 
+| [Perennial V2 Fix Review](https://audits.sherlock.xyz/contests/112)| 2/35 | $263.35 USDC | 
 
 # Other Reports
 This is a culmination of other reports separate from H/M findings, feel free to give it a read!
@@ -80,7 +82,8 @@ Analysis reports are in-depth analysis of codebases as a whole. You can checkout
 
 | Contest | Analysis Report | Grade|
 |:--:|:--:|:--:|
-| [Centrifuge](https://code4rena.com/contests/2023-09-centrifuge#top) | TBC | TBC |
+| [Maia Ulysses Omnichain](https://code4rena.com/contests/2023-09-maia-dao-ulysses#top) | TBC | TBC |
+| [Centrifuge](https://code4rena.com/contests/2023-09-centrifuge#top) | TBC | Grade A |
 | [Dopex](https://code4rena.com/contests/2023-08-dopex#top) | TBC | TBC |
 | [Arbitrum Security Council Election System](https://code4rena.com/contests/2023-08-tangible-caviar#top) | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Arbitrum%20SCES/Arbitrum-SCES-Analysis.md) | Grade-B |
 | [Tangible Caviar](https://code4rena.com/contests/2023-08-tangible-caviar#top) | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Tangible/Tangible-Analysis.md) | Grade-A |
