@@ -15,16 +15,16 @@ Code4rena Profile: https://code4rena.com/@0xnev
 
 | Overall | High risk |  Medium risk | Audited contests |
 |:--:|:--:|:--:|:--:|
-| 25 High/Medium | 12 High | 18 Medium | 22 |  
+| 25 High/Medium | 14 High | 25 Medium | 28 |  
 
 # Code4rena <img src="https://code4rena.com/logos/c4-logo.svg" width=100 height=25>
 
 ### Audit Competitions
 | Contest | High risk | Medium risk | Security report | 
 |:--:|:--:|:--:|:--:|
-| [Maia Ulysses Omnichain](https://code4rena.com/contests/2023-09-maia-dao-ulysses#top) | - | - | TBC |
+| [Maia Ulysses Omnichain](https://code4rena.com/contests/2023-09-maia-dao-ulysses#top) | - | 2 Medium | TBC |
 | [Centrifuge](https://code4rena.com/contests/2023-09-centrifuge#top) | - | 1 Medium | TBC |
-| [Dopex](https://code4rena.com/contests/2023-08-dopex#top) | - | - | TBC |
+| [Dopex](https://code4rena.com/contests/2023-08-dopex#top) | 2 High | 5 Medium | TBC |
 | [Tapioca DAO](https://code4rena.com/contests/2023-07-tapioca-dao#top) | 3 High | 2 Medium | TBC |
 | [Tangible Caviar](https://code4rena.com/contests/2023-08-tangible-caviar#top) | 4 High | 1 Medium | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Tangible/Tangible-Report.md) | 
 | [Arcade.xyz](https://code4rena.com/contests/2023-07-arcadexyz#top) | - | 1 Medium | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Arcade/Arcade-Report.md) | 
