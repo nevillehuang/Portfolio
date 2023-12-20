@@ -50,6 +50,9 @@ Code4rena Profile: https://code4rena.com/@0xnev
 | Contest | Role | Details |
 |:--:|:--:|:--:|
 |[DittoETH](https://www.codehawks.com/contests/clm871gl00001mp081mzjdlwc)| [Lead Judge](https://x.com/CodeHawks/status/1704190173607579817?s=20) | First community lead judge for [CodeHawks](https://www.codehawks.com/) |
+| [First Flight #3: Thunder Loan](https://www.codehawks.com/contests/clocopz26004rkx08q1n61wnz)| Lead Judge | First Flight #3 |
+| [First Flight #4: Boss Bridge](https://www.codehawks.com/contests/clomptuvr0001ie09bzfp4nqw)| Lead Judge | First Flight #4 |
+| [First Flight #6: Voting Booth](https://www.codehawks.com/contests/clq5cx9x60001kd8vrc01dirq) | Lead Judge | First Flight #6 |
 
 # Sherlock  <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.dc2b3290.svg" width=22 height=22>
 
