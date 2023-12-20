@@ -56,23 +56,32 @@ Code4rena Profile: https://code4rena.com/@0xnev
 ### Judging Competitions
 | Contest | Leaderboard | Payout |
 |:--:|:--:|:--:|
-| [GMX](https://audits.sherlock.xyz/contests/6)| 5/100 | $417.11 USDC | 
-| [Y2K](https://audits.sherlock.xyz/contests/57)| 9/97 | $99.21 USDC | 
-| [Teller](https://audits.sherlock.xyz/contests/62)| 9/93 | $23.71 USDC |
-| [Blueberry Update](https://audits.sherlock.xyz/contests/69)| 7/59 | $29.40 USDC | 
-| [Footium](https://audits.sherlock.xyz/contests/71)| 7/98 | $23.63 USDC | 
-| [Notional V3](https://audits.sherlock.xyz/contests/59)| 4/110 | $435.90 USDC | 
-| [Unitas Protocol](https://audits.sherlock.xyz/contests/73)| 2/90 | $210.70 USDC | 
-| [Ajna Update](https://audits.sherlock.xyz/contests/75)| 1/84 | $1,646.63 USDC | 
-| [RealWagmi](https://audits.sherlock.xyz/contests/88)| 1/90 | $311.82 USDC | 
-| [DODO V3](https://audits.sherlock.xyz/contests/89)| 8/57 | $26.58 USDC | 
-| [Symmetrical](https://audits.sherlock.xyz/contests/85)| 2/73 | $457.65 USDC | 
-| [Hubble Exchange](https://audits.sherlock.xyz/contests/72)| 8/63 | $81.92 USDC | 
-| [Dinari](https://audits.sherlock.xyz/contests/98)| 5/61 | $48.33 USDC | 
-| [GFX Labs](https://audits.sherlock.xyz/contests/97)| 3/43 | $86.55 USDC | 
-| [Beam](https://audits.sherlock.xyz/contests/102)| 10/29 | $27.42 USDC | 
-| [Symmetrical Update](https://audits.sherlock.xyz/contests/108)| Lead Judge | $892.88 USDC | 
-| [Perennial V2 Fix Review](https://audits.sherlock.xyz/contests/112)| 2/35 | $263.35 USDC | 
+| [GMX](https://audits.sherlock.xyz/contests/6)| 5/100 |
+| [Y2K](https://audits.sherlock.xyz/contests/57)| 9/97 | 
+| [Teller](https://audits.sherlock.xyz/contests/62)| 9/93 | 
+| [Blueberry Update](https://audits.sherlock.xyz/contests/69)| 7/59 | 
+| [Footium](https://audits.sherlock.xyz/contests/71)| 7/98 | 
+| [Notional V3](https://audits.sherlock.xyz/contests/59)| 4/110 | 
+| [Unitas Protocol](https://audits.sherlock.xyz/contests/73)| 2/90 | 
+| [Ajna Update](https://audits.sherlock.xyz/contests/75)| 1/84 | 
+| [RealWagmi](https://audits.sherlock.xyz/contests/88)| 1/90 | 
+| [DODO V3](https://audits.sherlock.xyz/contests/89)| 8/57 | 
+| [Symmetrical](https://audits.sherlock.xyz/contests/85)| 2/73 | 
+| [Hubble Exchange](https://audits.sherlock.xyz/contests/72)| 8/63 | 
+| [Dinari](https://audits.sherlock.xyz/contests/98)| 5/61 |
+| [GFX Labs](https://audits.sherlock.xyz/contests/97)| 3/43 | 
+| [Beam](https://audits.sherlock.xyz/contests/102)| 10/29 | 
+| [Symmetrical Update](https://audits.sherlock.xyz/contests/108)| Lead Judge | 
+| [Perennial V2 Fix Review](https://audits.sherlock.xyz/contests/112)| 2/35 |
+| [Allo V2](https://audits.sherlock.xyz/contests/109) | 1/128 |
+| [Perennial V2 Fix Review](https://audits.sherlock.xyz/contests/112) | 2/35 |
+| [LooksRare](https://audits.sherlock.xyz/contests/122) | Lead Judge |
+| [Perennial V2 Update #1](https://audits.sherlock.xyz/contests/123) | 4/43 |
+| [Notional Update #4](https://audits.sherlock.xyz/contests/119)| Lead Judge |
+| [Convergence](https://audits.sherlock.xyz/contests/126)| Lead Judge |
+| [Nouns Builder](https://audits.sherlock.xyz/contests/111)| Lead Judge |
+| [Olympus RBS 2.0](https://audits.sherlock.xyz/contests/128)| Lead Judge |
+| [Footium Update](https://audits.sherlock.xyz/contests/131)| Lead Judge |
 
 # Other Reports
 This is a culmination of other reports separate from H/M findings, feel free to give it a read!
