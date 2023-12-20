@@ -54,8 +54,8 @@ Code4rena Profile: https://code4rena.com/@0xnev
 # Sherlock  <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.dc2b3290.svg" width=22 height=22>
 
 ### Judging Competitions
-| Contest | Leaderboard | Payout |
-|:--:|:--:|:--:|
+| Contest | Leaderboard | 
+|:--:|:--:|
 | [GMX](https://audits.sherlock.xyz/contests/6)| 5/100 |
 | [Y2K](https://audits.sherlock.xyz/contests/57)| 9/97 | 
 | [Teller](https://audits.sherlock.xyz/contests/62)| 9/93 | 
