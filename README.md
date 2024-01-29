@@ -11,17 +11,23 @@ Discord: 0xnevi
 
 Code4rena Profile: https://code4rena.com/@0xnev
 
+
 # Summary
 
-| Auditing | 27 Competitions | 14 High | 26 Medium | 8 Analysis Reports | 16 QA Reports |
-|:--:|:--:|:--:|:--:|:--:|:--:|
+Auditing: 27 Competitions
+- 14 High
+- 26 Medium
+- 8 Analysis Reports
+- 16 QA Reports
 
-| Judging | 43 Competitions | 24 Lead Judge | 19 Participating |
-|:--:|:--:|:--:|:--:|
+Judging: 43 Competitions
+- 24 Lead Judge
+- 19 Participating
+
 
 # Code4rena <img src="https://code4rena.com/logos/c4-logo.svg" width=100 height=25>
 
-### Audit Competitions
+### Auditing
 | Contest | High Risk | Medium Risk | Security Report | 
 |:--:|:--:|:--:|:--:|
 | [Maia Dao Ulysses Omnichain](https://code4rena.com/contests/2023-09-maia-dao-ulysses) | - | 2 Medium | TBC |
@@ -40,9 +46,10 @@ Code4rena Profile: https://code4rena.com/@0xnev
 | [Asymmetry](https://code4rena.com/contests/2023-03-asymmetry-contest) | - | 2 Medium | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Asymmetry%20Finance/Asymmetry-Report.md) | 
 | [Neo Tokyo](https://code4rena.com/contests/2023-03-neo-tokyo-contest) | 1 High | - | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/NeoTokyo/NeoTokyo-Report.md) | 
 
+
 # CodeHawks <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=50 height=27>
 
-### Audit Competitions
+### Auditing
 | Contest | High Risk | Medium Risk | Security Report | 
 |:--:|:--:|:--:|:--:|
 | [CodeHawks Escrow](https://github.com/Cyfrin/2023-07-escrow) | - | 1 | [Source](https://github.com/nevillehuang/Portfolio/blob/main/CodeHawks/CodeHawks%20Escrow/Escrow-Report.md) | 
@@ -56,9 +63,10 @@ Code4rena Profile: https://code4rena.com/@0xnev
 | [First Flight #4: Boss Bridge](https://www.codehawks.com/contests/clomptuvr0001ie09bzfp4nqw)| Lead Judge | First Flight #4 |
 | [First Flight #6: Voting Booth](https://www.codehawks.com/contests/clq5cx9x60001kd8vrc01dirq) | Lead Judge | First Flight #6 |
 
+
 # Sherlock  <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.dc2b3290.svg" width=22 height=22>
 
-### Judging Competitions
+### Judging
 | Contest | Leaderboard | 
 |:--:|:--:|
 | [Flat Money](https://audits.sherlock.xyz/contests/132)| Lead Judge |
@@ -100,9 +108,6 @@ Code4rena Profile: https://code4rena.com/@0xnev
 | [Teller](https://audits.sherlock.xyz/contests/62)| 9/93 |
 | [Y2K](https://audits.sherlock.xyz/contests/57)| 9/97 |
 | [GMX](https://audits.sherlock.xyz/contests/6)| 5/100 |
-
-| Count | 39 |
-|:--:|:--:|
 
 
 # Other Reports
