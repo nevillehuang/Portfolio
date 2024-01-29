@@ -22,7 +22,7 @@ Auditing: 27 total competitions
 
 Judging: 43 total competitions
 - 24 Lead Judge
-- 19 Participating
+- 19 Top 10 Finishes
 
 
 # Code4rena <img src="https://code4rena.com/logos/c4-logo.svg" width=100 height=25>
