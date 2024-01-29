@@ -14,13 +14,13 @@ Code4rena Profile: https://code4rena.com/@0xnev
 
 # Summary
 
-Auditing: 27 Competitions
+Auditing: 27 total competitions
 - 14 High
 - 26 Medium
 - 8 Analysis Reports
 - 16 QA Reports
 
-Judging: 43 Competitions
+Judging: 43 total competitions
 - 24 Lead Judge
 - 19 Participating
 
@@ -64,7 +64,7 @@ Judging: 43 Competitions
 | [First Flight #6: Voting Booth](https://www.codehawks.com/contests/clq5cx9x60001kd8vrc01dirq) | Lead Judge | First Flight #6 |
 
 
-# Sherlock  <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.dc2b3290.svg" width=22 height=22>
+# Sherlock  <img src="[https://audits.sherlock.xyz/_next/static/media/sherlock_logo.dc2b3290.svg" width=22 height=22](https://audits.sherlock.xyz/_next/static/media/sherlock_logo.bf519c9e.svg)>
 
 ### Judging
 | Contest | Leaderboard | 
