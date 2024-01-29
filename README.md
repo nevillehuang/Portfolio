@@ -1,6 +1,6 @@
 # About 0xnevi
 
-Hey there friends, Nevi here, an independent blockchain security researcher currently active in audit contests on platforms such as Code4rena, Sherlock and Codehawks. Here, you can see some of my past findings and contest results.
+Hey there friends, Nevi here, an independent blockchain security researcher currently active in audit contests on platforms such as Code4rena, Sherlock, and Codehawks. Here, you can see some of my past findings and contest results.
 
 ### Contact Information
 I am always looking for new opportunities be it a job opening, private audit/security review, or simply for collaborations. Feel free to reach out via:
