@@ -85,6 +85,7 @@ Code4rena Profile: https://code4rena.com/@0xnev
 | [Nouns Builder](https://audits.sherlock.xyz/contests/111)| Lead Judge |
 | [Footium Update](https://audits.sherlock.xyz/contests/131)| Lead Judge |
 | [DODO GSP](https://audits.sherlock.xyz/contests/135)| Lead Judge |
+| [Layer3](https://audits.sherlock.xyz/contests/147)| Lead Judge |
 | [Olympus RBS 2.0](https://audits.sherlock.xyz/contests/128)| Lead Judge |
 | [DODO V3 Update](https://audits.sherlock.xyz/contests/130)| Lead Judge |
 | [SYMM IO](https://audits.sherlock.xyz/contests/144)| Lead Judge |
@@ -97,7 +98,6 @@ Code4rena Profile: https://code4rena.com/@0xnev
 | [LooksRare YOLO](https://audits.sherlock.xyz/contests/163)| Lead Judge |
 | [Olympus On-Chain Governance](https://audits.sherlock.xyz/contests/155)| Lead Judge |
 | [Flat Money](https://audits.sherlock.xyz/contests/132)| Lead Judge |
-| [Layer3](https://audits.sherlock.xyz/contests/147)| Lead Judge |
 
 # Other Reports
 This is a culmination of other reports separate from H/M findings, feel free to give it a read!
