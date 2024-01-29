@@ -99,8 +99,9 @@ Code4rena Profile: https://code4rena.com/@0xnev
 | [Olympus On-Chain Governance](https://audits.sherlock.xyz/contests/155)| Lead Judge |
 | [Flat Money](https://audits.sherlock.xyz/contests/132)| Lead Judge |
 
-|:--:|:--:|
 | Count | 39 |
+|:--:|:--:|
+
 
 # Other Reports
 This is a culmination of other reports separate from H/M findings, feel free to give it a read!
