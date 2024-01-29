@@ -13,9 +13,9 @@ Code4rena Profile: https://code4rena.com/@0xnev
 
 # Summary
 
-| Overall | High Risk |  Medium Risk |
-|:--:|:--:|:--:|
-| 38 High/Medium | 14 High | 24 Medium |
+|:--:|:--:|:--:||:--:||:--:||:--:|
+| **Auditing** | 27 Competitions | 14 High | 26 Medium | 8 Analysis Reports | 16 QA Reports |
+| **Judging** | 43 Competitions | 24 Lead Judge | 19 Participating | - | - |
 
 # Code4rena <img src="https://code4rena.com/logos/c4-logo.svg" width=100 height=25>
 
