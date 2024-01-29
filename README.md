@@ -14,7 +14,7 @@ Code4rena Profile: https://code4rena.com/@0xnev
 # Summary
 
 | Overall | High Risk |  Medium Risk |
-|:--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|
 | 38 High/Medium | 14 High | 24 Medium |
 
 # Code4rena <img src="https://code4rena.com/logos/c4-logo.svg" width=100 height=25>
