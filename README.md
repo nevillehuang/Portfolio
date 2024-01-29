@@ -60,22 +60,22 @@ Code4rena Profile: https://code4rena.com/@0xnev
 | Contest | Leaderboard | 
 |:--:|:--:|
 | [GMX](https://audits.sherlock.xyz/contests/6)| 5/100 |
-| [Y2K](https://audits.sherlock.xyz/contests/57)| 9/97 | 
-| [Teller](https://audits.sherlock.xyz/contests/62)| 9/93 | 
-| [Blueberry Update](https://audits.sherlock.xyz/contests/69)| 7/59 | 
-| [Footium](https://audits.sherlock.xyz/contests/71)| 7/98 | 
-| [Notional V3](https://audits.sherlock.xyz/contests/59)| 4/110 | 
-| [Unitas Protocol](https://audits.sherlock.xyz/contests/73)| 2/90 | 
-| [Ajna Update](https://audits.sherlock.xyz/contests/75)| 1/84 | 
-| [RealWagmi](https://audits.sherlock.xyz/contests/88)| 1/90 | 
-| [DODO V3](https://audits.sherlock.xyz/contests/89)| 8/57 | 
-| [Symmetrical](https://audits.sherlock.xyz/contests/85)| 2/73 | 
-| [Hubble Exchange](https://audits.sherlock.xyz/contests/72)| 8/63 | 
+| [Y2K](https://audits.sherlock.xyz/contests/57)| 9/97 |
+| [Teller](https://audits.sherlock.xyz/contests/62)| 9/93 |
+| [Blueberry Update](https://audits.sherlock.xyz/contests/69)| 7/59 |
+| [Footium](https://audits.sherlock.xyz/contests/71)| 7/98 |
+| [Notional V3](https://audits.sherlock.xyz/contests/59)| 4/110 |
+| [Unitas Protocol](https://audits.sherlock.xyz/contests/73)| 2/90 |
+| [Ajna Update](https://audits.sherlock.xyz/contests/75)| 1/84 |
+| [RealWagmi](https://audits.sherlock.xyz/contests/88)| 1/90 |
+| [DODO V3](https://audits.sherlock.xyz/contests/89)| 8/57 |
+| [Symmetrical](https://audits.sherlock.xyz/contests/85)| 2/73 |
+| [Hubble Exchange](https://audits.sherlock.xyz/contests/72)| 8/63 |
 | [Dinari](https://audits.sherlock.xyz/contests/98)| 5/61 |
-| [GFX Labs](https://audits.sherlock.xyz/contests/97)| 3/43 | 
-| [Beam](https://audits.sherlock.xyz/contests/102)| 10/29 | 
-| [Symmetrical Update](https://audits.sherlock.xyz/contests/108)| Lead Judge | 
-| [Perennial V2 Fix Review](https://audits.sherlock.xyz/contests/112)| 2/35 |
+| [GFX Labs](https://audits.sherlock.xyz/contests/97)| 3/43 |
+| [Beam](https://audits.sherlock.xyz/contests/102)| 10/29 |
+| [Tokemak](https://audits.sherlock.xyz/contests/101)| 2/114 |
+| [Symmetrical Update](https://audits.sherlock.xyz/contests/108)| Lead Judge |
 | [Allo V2](https://audits.sherlock.xyz/contests/109) | 1/128 |
 | [Perennial V2 Fix Review](https://audits.sherlock.xyz/contests/112) | 2/35 |
 | [LooksRare](https://audits.sherlock.xyz/contests/122) | Lead Judge |
@@ -83,8 +83,21 @@ Code4rena Profile: https://code4rena.com/@0xnev
 | [Notional Update #4](https://audits.sherlock.xyz/contests/119)| Lead Judge |
 | [Convergence](https://audits.sherlock.xyz/contests/126)| Lead Judge |
 | [Nouns Builder](https://audits.sherlock.xyz/contests/111)| Lead Judge |
-| [Olympus RBS 2.0](https://audits.sherlock.xyz/contests/128)| Lead Judge |
 | [Footium Update](https://audits.sherlock.xyz/contests/131)| Lead Judge |
+| [DODO GSP](https://audits.sherlock.xyz/contests/135)| Lead Judge |
+| [Olympus RBS 2.0](https://audits.sherlock.xyz/contests/128)| Lead Judge |
+| [DODO V3 Update](https://audits.sherlock.xyz/contests/130)| Lead Judge |
+| [SYMM IO](https://audits.sherlock.xyz/contests/144)| Lead Judge |
+| [Truflation](https://audits.sherlock.xyz/contests/151)| Lead Judge |
+| [Ubiquity](https://audits.sherlock.xyz/contests/138)| Lead Judge |
+| [Rio Vesting Escrow](https://audits.sherlock.xyz/contests/159)| Lead Judge |
+| [Telcoin Platform Audit](https://audits.sherlock.xyz/contests/156)| Lead Judge |
+| [Notional Update #5](https://audits.sherlock.xyz/contests/142)| Lead Judge |
+| [JOJO Exchange Update](https://audits.sherlock.xyz/contests/136)| Lead Judge |
+| [LooksRare YOLO](https://audits.sherlock.xyz/contests/163)| Lead Judge |
+| [Olympus On-Chain Governance](https://audits.sherlock.xyz/contests/155)| Lead Judge |
+| [Flat Money](https://audits.sherlock.xyz/contests/132)| Lead Judge |
+| [Layer3](https://audits.sherlock.xyz/contests/147)| Lead Judge |
 
 # Other Reports
 This is a culmination of other reports separate from H/M findings, feel free to give it a read!
