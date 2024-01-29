@@ -64,7 +64,7 @@ Judging: 43 total competitions
 | [First Flight #6: Voting Booth](https://www.codehawks.com/contests/clq5cx9x60001kd8vrc01dirq) | Lead Judge | First Flight #6 |
 
 
-# Sherlock  <img src="[https://audits.sherlock.xyz/_next/static/media/sherlock_logo.dc2b3290.svg" width=22 height=22](https://audits.sherlock.xyz/_next/static/media/sherlock_logo.bf519c9e.svg)>
+# Sherlock  <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.bf519c9e.svg">
 
 ### Judging
 | Contest | Leaderboard | 
