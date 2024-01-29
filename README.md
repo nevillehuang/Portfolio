@@ -98,6 +98,8 @@ Code4rena Profile: https://code4rena.com/@0xnev
 | [LooksRare YOLO](https://audits.sherlock.xyz/contests/163)| Lead Judge |
 | [Olympus On-Chain Governance](https://audits.sherlock.xyz/contests/155)| Lead Judge |
 | [Flat Money](https://audits.sherlock.xyz/contests/132)| Lead Judge |
+
+|:--:|:--:|
 | Count | 39 |
 
 # Other Reports
