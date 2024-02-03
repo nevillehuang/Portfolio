@@ -66,6 +66,7 @@ Judging: 43 total competitions
 ### Judging
 | Contest | Leaderboard | 
 |:--:|:--:|
+| [Arcadia](https://audits.sherlock.xyz/contests/137) | Lead Judge |
 | [Flat Money](https://audits.sherlock.xyz/contests/132)| Lead Judge |
 | [Olympus On-Chain Governance](https://audits.sherlock.xyz/contests/155)| Lead Judge |
 | [LooksRare YOLO](https://audits.sherlock.xyz/contests/163)| Lead Judge |
