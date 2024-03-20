@@ -55,10 +55,13 @@ Judging: 43 total competitions
 ### Judging
 | Contest | Role | Details |
 |:--:|:--:|:--:|
+| [Moonwell](https://www.codehawks.com/contests/clq5cx9x60001kd8vrc01dirq) | Lead Judge | - |
 |[DittoETH](https://www.codehawks.com/contests/clm871gl00001mp081mzjdlwc)| [Lead Judge](https://x.com/CodeHawks/status/1704190173607579817?s=20) | First community lead judge for [CodeHawks](https://www.codehawks.com/) |
 | [First Flight #3: Thunder Loan](https://www.codehawks.com/contests/clocopz26004rkx08q1n61wnz)| Lead Judge | First Flight #3 |
 | [First Flight #4: Boss Bridge](https://www.codehawks.com/contests/clomptuvr0001ie09bzfp4nqw)| Lead Judge | First Flight #4 |
 | [First Flight #6: Voting Booth](https://www.codehawks.com/contests/clq5cx9x60001kd8vrc01dirq) | Lead Judge | First Flight #6 |
+| [First Flight #9: Soulmate](https://www.codehawks.com/contests/clsathvgg0005yhmxmoe455mm) | Lead Judge | First Flight #9 |
+
 
 
 # Sherlock  <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.bf519c9e.svg" width=50 height=27>
@@ -66,6 +69,18 @@ Judging: 43 total competitions
 ### Judging
 | Contest | Leaderboard | 
 |:--:|:--:|
+| [Perennial V2 Update #2](https://audits.sherlock.xyz/contests/254) | Lead Judge |
+| [Axis Finance](https://audits.sherlock.xyz/contests/206) | Lead Judge |
+| [M^0](https://audits.sherlock.xyz/contests/124) | Lead Judge |
+| [Mento](https://audits.sherlock.xyz/contests/187) | Lead Judge |
+| [Copra Finance](https://audits.sherlock.xyz/contests/141) | Lead Judge |
+| [Perpetual](https://audits.sherlock.xyz/contests/219) | Lead Judge |
+| [Tapioca](https://audits.sherlock.xyz/contests/170) | Lead Judge |
+| [Rio Network](https://audits.sherlock.xyz/contests/176) | Lead Judge |
+| [Smilee Finance](https://audits.sherlock.xyz/contests/180) | TBD |
+| [Jala Swap](https://audits.sherlock.xyz/contests/233) | Lead Judge |
+| [Real Wagmi #2 Update](https://audits.sherlock.xyz/contests/234) | Lead Judge |
+| [Napier](https://audits.sherlock.xyz/contests/171) | TBD |
 | [Arcadia](https://audits.sherlock.xyz/contests/137) | Lead Judge |
 | [Flat Money](https://audits.sherlock.xyz/contests/132)| Lead Judge |
 | [Olympus On-Chain Governance](https://audits.sherlock.xyz/contests/155)| Lead Judge |
