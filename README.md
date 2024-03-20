@@ -17,11 +17,11 @@ Auditing: 28 total competitions
 - 8 Analysis Reports
 - 16 QA Reports
 
-Judging: 60 total competitions
+Judging: 59 total competitions
 - 38 Lead Judge
 - 22 Top 3 Finishes
 - 37 Top 10 Finishes
-- 12 Pending
+- 11 Pending
 
 
 
@@ -58,7 +58,6 @@ Judging: 60 total competitions
 | [Axis Finance](https://audits.sherlock.xyz/contests/206) | Lead Judge |
 | [M^0](https://audits.sherlock.xyz/contests/124) | Lead Judge |
 | [Mento](https://audits.sherlock.xyz/contests/187) | Lead Judge |
-| [Copra Finance](https://audits.sherlock.xyz/contests/141) | Lead Judge |
 | [Perpetual](https://audits.sherlock.xyz/contests/219) | Lead Judge |
 | [Tapioca](https://audits.sherlock.xyz/contests/170) | Lead Judge |
 | [Rio Network](https://audits.sherlock.xyz/contests/176) | Lead Judge |
