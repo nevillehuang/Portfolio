@@ -11,15 +11,17 @@ I am always looking for new opportunities be it a job opening, private audit/sec
 
 # Summary
 
-Auditing: 27 total competitions
+Auditing: 28 total competitions
 - 14 High
-- 26 Medium
+- 27 Medium
 - 8 Analysis Reports
 - 16 QA Reports
 
-Judging: 43 total competitions
-- 24 Lead Judge
-- 19 Top 10 Finishes
+Judging: 60 total competitions
+- 38 Lead Judge
+- 22 Top 3 Finishes
+- 37 Top 10 Finishes
+- 12 Pending
 
 
 
