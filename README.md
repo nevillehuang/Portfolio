@@ -3,7 +3,7 @@
 Hey there friends, Nevi here, an independent blockchain security researcher currently active in audit contests on platforms such as Code4rena, Sherlock, and Codehawks. Here, you can see some of my past findings and contest results.
 
 ### Contact Information
-I am always looking for new opportunities be it a job opening, private audit/security review, or simply for collaborations. Feel free to reach out via:
+I am always looking for new opportunities be it a job opening, private audit/security review, or collaborations. Feel free to reach out via:
 - Twitter: [@0xnevi](https://twitter.com/0xnevi)
 - Discord: 0xnevi
 - Code4rena Profile: https://code4rena.com/@0xnev
@@ -22,11 +22,13 @@ Judging: 43 total competitions
 - 19 Top 10 Finishes
 
 
+
 # Code4rena <img src="https://code4rena.com/logos/c4-logo.svg" width=100 height=25>
 
 ### Auditing
 | Contest | High Risk | Medium Risk | Security Report | 
 |:--:|:--:|:--:|:--:|
+| [Ethereum Credit Guild](https://code4rena.com/audits/2023-12-ethereum-credit-guild) | - | 1 Medium | TBC |
 | [Maia Dao Ulysses Omnichain](https://code4rena.com/contests/2023-09-maia-dao-ulysses) | - | 2 Medium | TBC |
 | [Centrifuge](https://code4rena.com/contests/2023-09-centrifuge) | - | 1 Medium | TBC |
 | [Dopex](https://code4rena.com/contests/2023-08-dopex) | 2 High | 5 Medium | TBC |
@@ -44,25 +46,6 @@ Judging: 43 total competitions
 | [Neo Tokyo](https://code4rena.com/contests/2023-03-neo-tokyo-contest) | 1 High | - | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/NeoTokyo/NeoTokyo-Report.md) | 
 
 
-# CodeHawks <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=50 height=27>
-
-### Auditing
-| Contest | High Risk | Medium Risk | Security Report | 
-|:--:|:--:|:--:|:--:|
-| [CodeHawks Escrow](https://github.com/Cyfrin/2023-07-escrow) | - | 1 | [Source](https://github.com/nevillehuang/Portfolio/blob/main/CodeHawks/CodeHawks%20Escrow/Escrow-Report.md) | 
-| [Sparkn](https://github.com/Cyfrin/2023-08-sparkn) | - | 1 | [Source](https://github.com/nevillehuang/Portfolio/blob/main/CodeHawks/Sparkn/Sparkn-Report.md) | 
-
-### Judging
-| Contest | Role | Details |
-|:--:|:--:|:--:|
-| [Moonwell](https://www.codehawks.com/contests/clq5cx9x60001kd8vrc01dirq) | Lead Judge | - |
-|[DittoETH](https://www.codehawks.com/contests/clm871gl00001mp081mzjdlwc)| [Lead Judge](https://x.com/CodeHawks/status/1704190173607579817?s=20) | First community lead judge for [CodeHawks](https://www.codehawks.com/) |
-| [First Flight #3: Thunder Loan](https://www.codehawks.com/contests/clocopz26004rkx08q1n61wnz)| Lead Judge | First Flight #3 |
-| [First Flight #4: Boss Bridge](https://www.codehawks.com/contests/clomptuvr0001ie09bzfp4nqw)| Lead Judge | First Flight #4 |
-| [First Flight #6: Voting Booth](https://www.codehawks.com/contests/clq5cx9x60001kd8vrc01dirq) | Lead Judge | First Flight #6 |
-| [First Flight #9: Soulmate](https://www.codehawks.com/contests/clsathvgg0005yhmxmoe455mm) | Lead Judge | First Flight #9 |
-
-
 
 # Sherlock  <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.bf519c9e.svg" width=50 height=27>
 
@@ -77,12 +60,13 @@ Judging: 43 total competitions
 | [Perpetual](https://audits.sherlock.xyz/contests/219) | Lead Judge |
 | [Tapioca](https://audits.sherlock.xyz/contests/170) | Lead Judge |
 | [Rio Network](https://audits.sherlock.xyz/contests/176) | Lead Judge |
-| [Smilee Finance](https://audits.sherlock.xyz/contests/180) | TBD |
+| [Smilee Finance](https://audits.sherlock.xyz/contests/180) | TBC |
 | [Jala Swap](https://audits.sherlock.xyz/contests/233) | Lead Judge |
 | [Real Wagmi #2 Update](https://audits.sherlock.xyz/contests/234) | Lead Judge |
-| [Napier](https://audits.sherlock.xyz/contests/171) | TBD |
+| [Napier](https://audits.sherlock.xyz/contests/171) | TBC |
 | [Arcadia](https://audits.sherlock.xyz/contests/137) | Lead Judge |
 | [Flat Money](https://audits.sherlock.xyz/contests/132)| Lead Judge |
+| [Covalent](https://audits.sherlock.xyz/contests/127)| Lead Judge |
 | [Olympus On-Chain Governance](https://audits.sherlock.xyz/contests/155)| Lead Judge |
 | [LooksRare YOLO](https://audits.sherlock.xyz/contests/163)| Lead Judge |
 | [JOJO Exchange Update](https://audits.sherlock.xyz/contests/136)| Lead Judge |
@@ -102,6 +86,7 @@ Judging: 43 total competitions
 | [Notional Update #4](https://audits.sherlock.xyz/contests/119)| Lead Judge |
 | [Perennial V2 Update #1](https://audits.sherlock.xyz/contests/123) | 4/43 |
 | [LooksRare](https://audits.sherlock.xyz/contests/122) | Lead Judge |
+| [Real Wagmi #2](https://audits.sherlock.xyz/contests/118) | 3/62 |
 | [Perennial V2 Fix Review](https://audits.sherlock.xyz/contests/112) | 2/35 |
 | [Allo V2](https://audits.sherlock.xyz/contests/109) | 1/128 |
 | [Symmetrical Update](https://audits.sherlock.xyz/contests/108)| Lead Judge |
@@ -109,8 +94,8 @@ Judging: 43 total competitions
 | [Beam](https://audits.sherlock.xyz/contests/102)| 10/29 |
 | [GFX Labs](https://audits.sherlock.xyz/contests/97)| 3/43 |
 | [Dinari](https://audits.sherlock.xyz/contests/98)| 5/61 |
-| [Hubble Exchange](https://audits.sherlock.xyz/contests/72)| 8/63 |
 | [Symmetrical](https://audits.sherlock.xyz/contests/85)| 2/73 |
+| [Hubble Exchange](https://audits.sherlock.xyz/contests/72)| 8/63 |
 | [DODO V3](https://audits.sherlock.xyz/contests/89)| 8/57 |
 | [RealWagmi](https://audits.sherlock.xyz/contests/88)| 1/90 |
 | [Ajna Update](https://audits.sherlock.xyz/contests/75)| 1/84 |
@@ -121,6 +106,27 @@ Judging: 43 total competitions
 | [Teller](https://audits.sherlock.xyz/contests/62)| 9/93 |
 | [Y2K](https://audits.sherlock.xyz/contests/57)| 9/97 |
 | [GMX](https://audits.sherlock.xyz/contests/6)| 5/100 |
+
+
+
+# CodeHawks <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=50 height=27>
+
+### Auditing
+| Contest | High Risk | Medium Risk | Security Report | 
+|:--:|:--:|:--:|:--:|
+| [CodeHawks Escrow](https://github.com/Cyfrin/2023-07-escrow) | - | 1 Medium | [Source](https://github.com/nevillehuang/Portfolio/blob/main/CodeHawks/CodeHawks%20Escrow/Escrow-Report.md) | 
+| [Sparkn](https://github.com/Cyfrin/2023-08-sparkn) | - | 1 Medium | [Source](https://github.com/nevillehuang/Portfolio/blob/main/CodeHawks/Sparkn/Sparkn-Report.md) | 
+
+### Judging
+| Contest | Role |
+|:--:|:--:|
+| [Moonwell](https://www.codehawks.com/contests/clq5cx9x60001kd8vrc01dirq) | Lead Judge |
+| [DittoETH](https://www.codehawks.com/contests/clm871gl00001mp081mzjdlwc)| [First Community Lead Judge](https://x.com/CodeHawks/status/1704190173607579817?s=20) |
+| [First Flight #3: Thunder Loan](https://www.codehawks.com/contests/clocopz26004rkx08q1n61wnz)| Lead Judge |
+| [First Flight #4: Boss Bridge](https://www.codehawks.com/contests/clomptuvr0001ie09bzfp4nqw)| Lead Judge |
+| [First Flight #6: Voting Booth](https://www.codehawks.com/contests/clq5cx9x60001kd8vrc01dirq) | Lead Judge |
+| [First Flight #9: Soulmate](https://www.codehawks.com/contests/clsathvgg0005yhmxmoe455mm) | Lead Judge |
+
 
 
 # Other Reports
@@ -161,3 +167,6 @@ Quality Assurance (QA) reports are reports comprising of Low/Non-critical/Inform
 | [Wenwin](https://code4rena.com/contests/2023-03-wenwin-contest) | Grade B | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Wenwin/Wenwin-QA.md) |
 | [Aragon Protocol](https://code4rena.com/contests/2023-03-aragon-protocol-contest) | Grade B | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Aragon/Aragon-QA.md) |
 | [Ethos Reserve](https://code4rena.com/contests/2023-02-ethos-reserve-contest) | Grade B | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Ethos%20Reserve/EthosReserve-QA.md) |
+
+
+Last Updated: March 20, 2024
