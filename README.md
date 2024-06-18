@@ -13,8 +13,8 @@ I am always looking for new opportunities be it a job opening, private audit/sec
 # Summary
 
 Auditing: 28 total competitions
-- 14 High
-- 27 Medium
+- 17 High
+- 29 Medium
 - 8 Analysis Reports
 - 16 QA Reports
 
@@ -31,6 +31,8 @@ Judging: 59 total competitions
 ### Auditing
 | Contest | High Risk | Medium Risk | Security Report | 
 |:--:|:--:|:--:|:--:|
+| [LoopFi](https://code4rena.com/audits/2024-05-loopfi#top) | 1 High | - | TBC |
+| [DYAD](https://code4rena.com/audits/2024-04-dyad) | 2 High | 2 Medium | TBC |
 | [Ethereum Credit Guild](https://code4rena.com/audits/2023-12-ethereum-credit-guild) | - | 1 Medium | TBC |
 | [Maia Dao Ulysses Omnichain](https://code4rena.com/contests/2023-09-maia-dao-ulysses) | - | 2 Medium | TBC |
 | [Centrifuge](https://code4rena.com/contests/2023-09-centrifuge) | - | 1 Medium | TBC |
