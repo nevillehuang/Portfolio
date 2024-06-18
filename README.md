@@ -7,6 +7,7 @@ I am always looking for new opportunities be it a job opening, private audit/sec
 - Twitter: [@0xnevi](https://twitter.com/0xnevi)
 - Discord: 0xnevi
 - Code4rena Profile: https://code4rena.com/@0xnev
+- Sherlock Profile: https://audits.sherlock.xyz/watson/0xnevi
 
 
 # Summary
