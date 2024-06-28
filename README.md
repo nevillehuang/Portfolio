@@ -18,8 +18,8 @@ Auditing: 28 total competitions
 - 8 Analysis Reports
 - 16 QA Reports
 
-Judging: 59 total competitions
-- 38 Lead Judge
+Judging: 64 total competitions
+- 43 Lead Judge
 - 22 Top 3 Finishes
 - 37 Top 10 Finishes
 - 11 Pending
