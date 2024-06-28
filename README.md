@@ -13,7 +13,7 @@ I am always looking for new opportunities be it a job opening, private audit/sec
 # Summary
 
 Auditing: 28 total competitions
-- 17 High
+- 18 High
 - 29 Medium
 - 8 Analysis Reports
 - 16 QA Reports
@@ -31,6 +31,7 @@ Judging: 59 total competitions
 ### Auditing
 | Contest | High Risk | Medium Risk | Security Report | 
 |:--:|:--:|:--:|:--:|
+| [Renzo](https://code4rena.com/audits/2024-04-renzo#top) | 1 High | - | TBC |
 | [LoopFi](https://code4rena.com/audits/2024-05-loopfi#top) | 1 High | - | TBC |
 | [DYAD](https://code4rena.com/audits/2024-04-dyad) | 2 High | 2 Medium | TBC |
 | [Ethereum Credit Guild](https://code4rena.com/audits/2023-12-ethereum-credit-guild) | - | 1 Medium | TBC |
@@ -52,11 +53,19 @@ Judging: 59 total competitions
 
 
 
-# Sherlock  <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.bf519c9e.svg" width=50 height=27>
+# Sherlock  <img src="https://avatars.githubusercontent.com/u/83594978?s=200&v=4" width=35 height=35>
 
 ### Judging
 | Contest | Leaderboard | 
 |:--:|:--:|
+| [dHedge](https://audits.sherlock.xyz/contests/288) | Lead Judge |
+| [Elfi](https://audits.sherlock.xyz/contests/329) | Lead Judge |
+| [Pooltogether](https://audits.sherlock.xyz/contests/225) | Lead Judge |
+| [Beefy Cowcentrated Liquidity Manager](https://audits.sherlock.xyz/contests/303) | Sherlock Judge |
+| [Gamma - Locked Staking Contract](https://audits.sherlock.xyz/contests/330) | Sherlock Judge |
+| [FairSide Network](https://audits.sherlock.xyz/contests/315) | Lead Judge |
+| [Teller Finance](https://audits.sherlock.xyz/contests/295) | Lead Judge |
+| [Optimism Fault Proofs](https://audits.sherlock.xyz/contests/205) | Lead Judge |
 | [Perennial V2 Update #2](https://audits.sherlock.xyz/contests/254) | Lead Judge |
 | [Axis Finance](https://audits.sherlock.xyz/contests/206) | Lead Judge |
 | [M^0](https://audits.sherlock.xyz/contests/124) | Lead Judge |
@@ -112,7 +121,6 @@ Judging: 59 total competitions
 | [GMX](https://audits.sherlock.xyz/contests/6)| 5/100 |
 
 
-
 # CodeHawks <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=50 height=27>
 
 ### Auditing
@@ -132,6 +140,12 @@ Judging: 59 total competitions
 | [First Flight #9: Soulmate](https://www.codehawks.com/contests/clsathvgg0005yhmxmoe455mm) | Lead Judge |
 
 
+# Cantina <img src="https://avatars.githubusercontent.com/u/132108185?s=200&v=4" width=35 height=35>
+
+| Contest | Role |
+|:--:|:--:|
+| [Aave v3.1](https://cantina.xyz/competitions/5ffcedec-7e2e-4717-a3e4-e9041ca541c2) | Lead Judge |
+| [LooksRare YOLO Games](https://cantina.xyz/competitions/a2c3cc6a-e384-495f-9751-5d7e657bc219) | Lead Judge |
 
 # Other Reports
 This is a culmination of other reports separate from H/M findings, feel free to give it a read!
