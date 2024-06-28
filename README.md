@@ -73,10 +73,10 @@ Judging: 59 total competitions
 | [Perpetual](https://audits.sherlock.xyz/contests/219) | Lead Judge |
 | [Tapioca](https://audits.sherlock.xyz/contests/170) | Lead Judge |
 | [Rio Network](https://audits.sherlock.xyz/contests/176) | Lead Judge |
-| [Smilee Finance](https://audits.sherlock.xyz/contests/180) | TBC |
+| [Smilee Finance](https://audits.sherlock.xyz/contests/180) | 6/44 |
 | [Jala Swap](https://audits.sherlock.xyz/contests/233) | Lead Judge |
 | [Real Wagmi #2 Update](https://audits.sherlock.xyz/contests/234) | Lead Judge |
-| [Napier](https://audits.sherlock.xyz/contests/171) | TBC |
+| [Napier](https://audits.sherlock.xyz/contests/171) | 2/43 |
 | [Arcadia](https://audits.sherlock.xyz/contests/137) | Lead Judge |
 | [Flat Money](https://audits.sherlock.xyz/contests/132)| Lead Judge |
 | [Covalent](https://audits.sherlock.xyz/contests/127)| Lead Judge |
